@@ -1,0 +1,93 @@
+body {
+    background: url(../img/s.jpg) no-repeat; 
+    background-size: 100%;
+}
+
+h1 {
+    color: #ffffff;
+    font-weight: normal;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding: 100px 0px 0px; 
+  }
+  .p {
+      color: rgb(213, 101, 16);
+      padding: 5px;
+      margin: 5px;
+      font-family: cursive;
+      font-size: 15PX;
+      position: relative;
+      top: 6px;
+  }
+  .y {
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    padding: 5px;
+    margin: 5px;
+    font-size: 15PX;
+    margin-left: auto;
+    position: relative; 
+    top: 6px;
+    
+}
+
+#fondo h1 {
+	font-size: 60px;
+	color: #fff;
+	position: relative
+} 
+p {
+    color: rgb(255, 255, 255); 
+    font-size: 20px;
+    margin: 0px 0px 10px;
+    padding: 0px 5px 10px;
+}
+
+.n {
+    color:rgb(255, 255, 255) ;
+    background: rgb(43, 41, 41);
+    margin: 10px;
+    padding: 10px;
+    border: solid 2px rgb(255, 255, 255);
+    font-family: cursive;
+} 
+.b {
+    color:rgb(0, 0, 0) ;
+    background: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 10px;
+    border: solid 2px rgb(255, 255, 255); 
+    font-family: cursive; 
+}
+
+.v {
+    margin: 100%;
+    padding: 100%;
+    left: 100%;
+    position: fixed;
+}
+body::before {
+	content:'';
+    position: absolute;
+    height: 50px;
+        top: 0;
+	bottom: 0;
+	left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.7);
+    padding: 0%;
+    margin: 0%;
+} 
+img {
+    position: relative;
+} 
+.rafa {
+    float: right; 
+    padding: 10px;
+    padding-right: 5px;
+    margin: 0px ;
+    left: 0px 0px 0px;
+    right: 0px 0px 0px;
+    position: relative;
+    
+}
